@@ -1,0 +1,62 @@
+body{
+    margin:0;
+    background-color: rgb(233, 236, 238);
+}
+.main{
+    background-image: url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmpobWd5dXJmejdxczRjZzlyMXppa3lzaHZvamNoMmJleG5oMmZxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iicDrNGWxHmDrIni6j/giphy.gif");
+    background-size: 150%;
+    background-size: cover;
+     padding-top: 100px;
+     padding-bottom: 250px;
+    margin:0;
+}
+.text {
+    text-align: center;
+    color:#4bbcd5;
+    font-size: 100px;
+    font-family: godfather;
+    margin-top: -10px;
+}
+.btn{
+    display:flex;
+    color: #75B6C4;
+    font-family: godfather;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    padding:6px 12px;
+    border-radius: 5px;
+   border: 0px;
+   font-size: 200%;
+   font-weight: 400;
+}
+@font-face{
+    src: url("the-godfather.regular.ttf");
+    font-family: godfather;
+}
+@font-face {
+    src: url("https://fonts.google.com/specimen/Bebas+Neue?preview.script=Latn");
+   font-family: terms;
+}
+.under{
+    border-bottom: 10px solid whitesmoke;
+    border-radius: 10px;
+}
+.logo{
+   display: block;
+   width: 400px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: -30px;
+   
+}
+h3{
+    color: #509795;
+    text-align: center;
+    font-family: terms;
+    font-size: 40px;
+
+}
+
+
+
